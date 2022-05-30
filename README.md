@@ -25,6 +25,3 @@
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-  
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroernestotech&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pedroernestoads/pedroernestoads/edit/main/README.md))
