@@ -1,3 +1,18 @@
+# Pedro Ernesto
+
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+<br />
+Software Developer :computer:
+<br />
+Engenheira de Computação
+<br />
+
+
+ <br/> &nbsp; Desenvolvedora de software desde 2015, hoje atuo como CTO da OQ Digital, startup de tecnologia na área de aquisição de novos clientes. Lidero uma equipe de desenvolvedores, melhorando o software e entregando o melhor produto para os clientes. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
+ <br />
+Seja muito bem vindo ao meu Github!
+
 
  <div> 
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
