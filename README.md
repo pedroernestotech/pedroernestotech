@@ -1,15 +1,16 @@
 # Pedro Ernesto
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonado por dados e resolver problemas utilizando a tecnologia.
 <br />
-Software Developer :computer:
+
 <br />
-Engenheira de Computação
+Data Scientist 
 <br />
 
 
- <br/> &nbsp; Desenvolvedora de software desde 2015, hoje atuo como CTO da OQ Digital, startup de tecnologia na área de aquisição de novos clientes. Lidero uma equipe de desenvolvedores, melhorando o software e entregando o melhor produto para os clientes. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
+ <br/> &nbsp; Apaixonado por dados desde 2009, hoje atuo como Cientista de Dados em uma multinacional, na area da saúde para acompanhamento e prevenção de doenças. Também sou entusiasta da linguagem .NET. Há um pouco mais de três anos compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas se apaioxonarem pela area de tecnologia. Tenho formação em MBA Engenharia e Gestão de Manufatura e Manutenção(USP). Graduado em Engenharia de Controle e Automação. Tecnologia em Analise e desenvolvimento de Sistemas (FIAP). Tenho experiência em trabalhar em grande empresas como Petrobras, FLC - Lâmpadas. Atuo na area de Analytics, planejamento, programação, SQL, PL/SQL, Administrador de Banco de Dados, Business intelligence Analyst, VBA, .NET, HTML5, análises financeiras e fluxogramas, criações de Dash Boards, além de atuar em cálculos tributários e estatísticos, RH, conhecimentos industriais, CLPs e lean manufacturing. Habilidade nos estudos e Aplicação das ferramentas de qualidade. Tenho forte pensamento crítico e habilidades para resolver problemas e fazer sugestões que auxiliam a funcionalidade.
+ 
  <br />
 Seja muito bem vindo ao meu Github!
 
