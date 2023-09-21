@@ -1,6 +1,6 @@
 # Pedro Ernesto
 
-## Olá pessoal 👋
+## Olá pessoal  👋
 Sou apaixonado por dados e resolver problemas utilizando a tecnologia.
 <br />
 
